@@ -7,7 +7,7 @@
 * `git clone`する
 * `pnpm i`する
 * `pnpm dev`する
-* `http://localhost:3003/react-hook-form`にアクセスする
+* `http://localhost:3003/react-hook-form`にアクセスする(portは各自の環境によります)
 * `MOCK_DATA.csv`をuploadする
 * `apps/trpc/public/{数値}/}`に`MOCK_DATA.csv`が保存されていることを確認する
 * vs codeのcompareコマンドなどでuploadしたファイルと保存されたファイルに差分がないことを確認する
