@@ -9,8 +9,8 @@
 * `pnpm dev`する
 * `http://localhost:3003/react-hook-form`にアクセスする
 * `MOCK_DATA.csv`をuploadする
-* `apps/trpc/public/{数値}/}`にMOCK_DATA.csvが保存されていることを確認する
-* vs codeのcompareコマンドなどでuploadしたファイルと保存されたファイルに差分がないことを確認sる
+* `apps/trpc/public/{数値}/}`に`MOCK_DATA.csv`が保存されていることを確認する
+* vs codeのcompareコマンドなどでuploadしたファイルと保存されたファイルに差分がないことを確認する
 
 ## appendix
 * csvは[mockaroo](https://www.mockaroo.com/)で作成している
